@@ -1,5 +1,5 @@
 -  Oi, Meu nome é @NicolasBatalha
--  Sou interessado atualmente em Física, Computação, Jogos e algumas séries.
+-  Sou interessado atualmente em Física, Computação e Jogos.
 -  Atualmente estou estudando Física e, logo em breve, estarei começando PythoN.
 -  -----------
 -  Vocês podem entrar em contato comigo via email: nicolasbsantos@yahoo.com.br 📧
